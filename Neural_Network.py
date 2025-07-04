@@ -49,3 +49,5 @@ for i, pred in enumerate(predictions):
 plt.imshow(x_test[0], cmap='gray')
 plt.title(f"Predicted: {np.argmax(predictions[0])}, Actual: {y_test[0]}")
 plt.show()
+
+model.save("mnist_model.h5")
