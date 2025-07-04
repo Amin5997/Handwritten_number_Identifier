@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a5e97c-d123-43f6-a94a-ac03e8045d2e" name="Changes" comment="Creating a new repository">
-      <changelist_data name="Amin Safa" email="" automatic="false" />
+    <list default="true" id="b0a5e97c-d123-43f6-a94a-ac03e8045d2e" name="Changes" comment="Adding Neural_Network.py">
+      <change beforePath="$PROJECT_DIR$/Neural_Network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Neural_Network.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -21,6 +28,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Amin5997/Basic-Machine-Learning-Project",
+    "accountId": "92e8330c-44d0-4d37-a01d-65f0ddc4f85b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -32,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Neural_Network.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -54,6 +68,15 @@
       <option name="presentableId" value="Default" />
       <updated>1751599762644</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding Neural_Network.py">
+      <option name="closed" value="true" />
+      <created>1751601911032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751601911032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a new repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a new repository" />
+    <MESSAGE value="Adding Neural_Network.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Neural_Network.py" />
   </component>
 </project>
