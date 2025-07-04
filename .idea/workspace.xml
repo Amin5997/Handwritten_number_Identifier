@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a5e97c-d123-43f6-a94a-ac03e8045d2e" name="Changes" comment="Adding Neural_Network.py">
+    <list default="true" id="b0a5e97c-d123-43f6-a94a-ac03e8045d2e" name="Changes" comment="Testing pushing to git repository">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Neural_Network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Neural_Network.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +29,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Amin5997"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Amin5997/Basic-Machine-Learning-Project",
@@ -76,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751601911032</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Testing pushing to git repository">
+      <option name="closed" value="true" />
+      <created>1751602171537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751602171537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a new repository" />
     <MESSAGE value="Adding Neural_Network.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Neural_Network.py" />
+    <MESSAGE value="Testing pushing to git repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing pushing to git repository" />
   </component>
 </project>
