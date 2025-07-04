@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a5e97c-d123-43f6-a94a-ac03e8045d2e" name="Changes" comment="First complete Neural Network">
-      <change afterPath="$PROJECT_DIR$/Model_Test.py" afterDir="false" />
+    <list default="true" id="b0a5e97c-d123-43f6-a94a-ac03e8045d2e" name="Changes" comment="Added Model_Test.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model_Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Neural_Network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Neural_Network.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751602417647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Model_Test.py">
+      <option name="closed" value="true" />
+      <created>1751605732354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751605732354</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,7 @@
     <MESSAGE value="Adding Neural_Network.py" />
     <MESSAGE value="Testing pushing to git repository" />
     <MESSAGE value="First complete Neural Network" />
-    <option name="LAST_COMMIT_MESSAGE" value="First complete Neural Network" />
+    <MESSAGE value="Added Model_Test.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Model_Test.py" />
   </component>
 </project>

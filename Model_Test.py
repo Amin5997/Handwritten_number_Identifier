@@ -10,19 +10,22 @@ x_test = x_test / 255.0
 # Load the saved model
 model = tf.keras.models.load_model("mnist_model.h5")
 
-# Make predictions
+# Wrap with softmax to get probabilities
 probability_model = tf.keras.Sequential([
     model,
     tf.keras.layers.Softmax()
 ])
 
-predictions = probability_model.predict(x_test[:5])
+# Make predictions on entire test set
+predictions = probability_model.predict(x_test)
 
-# Print predictions
-for i, pred in enumerate(predictions):
-    print(f"Image {i}: Predicted = {np.argmax(pred)}, Actual = {y_test[i]}")
+# Show incorrect predictions
+for i in range(len(x_test)):
+    predicted_label = np.argmax(predictions[i])
+    actual_label = y_test[i]
 
-# Optional: Display one image
-plt.imshow(x_test[0], cmap="gray")
-plt.title(f"Predicted: {np.argmax(predictions[0])}, Actual: {y_test[0]}")
-plt.show()
+    if predicted_label != actual_label:
+        plt.imshow(x_test[i], cmap="gray")
+        plt.title(f"Wrong prediction\nPredicted: {predicted_label}, Actual: {actual_label}")
+        plt.axis("off")
+        plt.show()
